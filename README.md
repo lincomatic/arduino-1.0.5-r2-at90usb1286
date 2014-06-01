@@ -1,4 +1,4 @@
-Arduino 1.0.5-r2 for AT90USB1286/Printrboard
+Arduino 1.0.5-r2 for AT90USB1286/Printrboard for Windows
 
 This copy of Arduino 1.0.5-r2 has been configured to support the AT90USB1286 and Printrboard.
 
