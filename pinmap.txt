@@ -1,3 +1,5 @@
+Digital Pins
+
 Arduino    AT90USB1286
 pin	   pin
 0          PIN_D0
@@ -38,3 +40,15 @@ pin	   pin
 35         PIN_A7
 36         PIN_E4
 37         PIN_E5
+
+Analog Pins
+Arduino    AT90USB1286
+pin	   pin
+0	   PIN_F0
+1	   PIN_F1
+2	   PIN_F2
+3	   PIN_F3
+4	   PIN_F4
+5	   PIN_F5
+6	   PIN_F6
+7	   PIN_F7
